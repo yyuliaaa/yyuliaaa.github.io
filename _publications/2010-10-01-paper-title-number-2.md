@@ -7,7 +7,7 @@ excerpt: '在工程教育中，如何有效传授三维设计技能始终是一�
 date: 2025-01-24
 venue: '农业工程'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/202501043 (3).pdf'
+paperurl: 'http://yyuliaaa.github.io/files/202501043 (3).pdf'
 #citation: '龚心羽, You. (2025). &quot;混合现实技术支持下三维设计教学系统创新与实践.&quot; <i>农业工程</i>. 1(2).'
 ---
 
