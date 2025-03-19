@@ -9,12 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "龚心羽 / 自我介绍"
 title_separator          : "-"
 name                     : &name "yyuliaaa"
 description              : &description "personal description"
 url                      : https://yyuliaaa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yyuliaaa/yyuliaaa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,14 +21,14 @@ repository               : "yyuliaaa/yyuliaaa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "证件照.png"
+  name             : "龚心羽"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "📚"
+  location         : "黑龙江省哈尔滨市"
+  employer         : "东北农业大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yuliagongxinyu@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
