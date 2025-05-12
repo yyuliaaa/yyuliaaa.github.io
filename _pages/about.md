@@ -19,6 +19,8 @@ redirect_from:
 
 大一通过实操三维建模的筛选进入数字化与智能化设计创新协会，大三基于研究成果：三维设计虚拟仿真教学系统，与导师共同完成论文：混合现实技术支持下三维设计教学系统创新与实践，现已被《农业工程》（科技核心）录用。
 
+在工业大麻雄蕊检测项目agri-dino中，我针对大麻种植场景受复杂背景干扰，以及现有基于DINO架构模型在高精度检测上的欠缺，将GroundingDINO骨干网络与FFA（Foreground Feature Averaging）模块结合，显著提升了检测精度，相关代码和实验结果可在[GitHub项目](https://github.com/yyuliaaa/agri-dino)中查阅。
+
 📑论文方面成果
 ======
 1. **独立一作** Fruit detection methods based on Deep Learning: A Systematic Literature Review，ieee access(中科院4区，JCR2区)，返修(2025.4.22)
